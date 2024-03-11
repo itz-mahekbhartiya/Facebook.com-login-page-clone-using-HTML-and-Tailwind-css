@@ -41,9 +41,9 @@ To set up the project locally, follow these steps:
    
 ## Output
 <b>Output of the project:</b>
-<img src="https://github.com/itz-mahekbhartiya/Facebook.com-login-page-clone-using-HTML-and-Tailwind-css/blob/94c4708a3b766fed7393ab0ab2edb77f4bda287e/Outputs/Clone%20site.png">
+<img src="https://github.com/itz-mahekbhartiya/Facebook.com-login-page-clone-using-HTML-and-Tailwind-css/blob/ded45312d7dbe56b31bcd150b4be3fa184745fa5/Outputs/Clone%20site.png">
 <b>Webpage that is cloned:</b>
-<img src="https://github.com/itz-mahekbhartiya/Facebook.com-login-page-clone-using-HTML-and-Tailwind-css/blob/df14e93d84a476dc0f86bab141a783f092e62267/Outputs/facebook%20login%20webpage.png">
+<img src="https://github.com/itz-mahekbhartiya/Facebook.com-login-page-clone-using-HTML-and-Tailwind-css/blob/ded45312d7dbe56b31bcd150b4be3fa184745fa5/Outputs/facebook%20login%20webpage.png">
 
 ## Contributing
 
